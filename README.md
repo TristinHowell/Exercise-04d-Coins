@@ -1,17 +1,20 @@
-# Exercise-04c-Enemies
+# Project Name
+Tristin's Gmae
+Context and date
+Platform style game  3/6/2024
+
+Description
+Platformer game with different enemy types score tracker 
 
 ## Implementation
+Which features you included
+I included sounds on almost all things such as coins and jumping
 
 ## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
+Nathan Mishler
 
 ## Future Development
+New levels
 
 ## Created by
-Nathan Mishler
+Tristin Howell

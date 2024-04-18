@@ -12,7 +12,7 @@ Collect coins and defeat enemies
 
 ## Impediments
 Struggles or surprises you encountered during the development of the game
-Coming up with an idea fot the enemies
+Coming up with an idea for the enemies
 
 ## Implementation
 Features
@@ -25,7 +25,7 @@ More Levels, and more enemies
 
 # Created by: The back row
 List of group members (and contributions):
-  Tristin Howell - 
+  Tristin Howell - Created level design on 4 levels
   Nate Reininga - 
   Amelia Goswami - 
   Yash Patel - 

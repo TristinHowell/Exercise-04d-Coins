@@ -1,21 +1,31 @@
-# Project Name
-Tristin's Gmae
-Context and date
-Platform style game  3/6/2024
+# Reverse
+MSCH-C220 Game Jam, April 2024
 
-Description
-The game starts where a traditional platformer would end. The game will have coins that reduce score and bosses right at the beginning rather than end. It gets easier in terms of level design (obstacles and hazards), but harder with the player getting weaker (slower, smaller jump, weaker attacks, etc. 
-Theme: Reverse
+## Theme
+We interpreted reverse as a way to make the player weaker and the enemies stronger the farther you get into the game. 
+
+## Game Play
+Objective
+Complete Each Level
+Game-play instructions
+Collect coins and defeat enemies
+
+## Impediments
+Struggles or surprises you encountered during the development of the game
+Coming up with an idea fot the enemies
 
 ## Implementation
-Which features you included
-I included New enemies, Reverse levels, negative coins, and a boss
+Features
+Kenny tile maps
 
 ## References
-Nathan Mishler
-
+Kenny 
 ## Future Development
-New levels, New Enemies, Reverse Level Design (gets easier through level and player weakens as time progresses), Negative Coins, Boss at Beginning.
+More Levels, and more enemies
 
-## Created by
-Tristin Howell, Yash Patel, Nate Reininga, Amelia Goswami
+# Created by: The back row
+List of group members (and contributions):
+  Tristin Howell - 
+  Nate Reininga - 
+  Amelia Goswami - 
+  Yash Patel - 

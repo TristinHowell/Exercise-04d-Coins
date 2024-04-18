@@ -28,4 +28,4 @@ List of group members (and contributions):
   Tristin Howell - Created level design on 4 levels
   Nate Reininga - 
   Amelia Goswami - 
-  Yash Patel - 
+  Yash Patel - Imported enemy sprites to prefabs, added some animation

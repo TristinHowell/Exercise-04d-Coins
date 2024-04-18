@@ -36,4 +36,4 @@ List of group members (and contributions):
   Tristin Howell - Created level design on 4 levels
   Nate Reininga - Improved HUD elements, reversed enemies, added score to end screen, fixed bugs
   Amelia Goswami - Created the Main and Ending menus, implemented sound, font and images 
-  Yash Patel - Imported enemy sprites to prefabs
+  Yash Patel - Imported enemy sprites to prefabs, did some animation

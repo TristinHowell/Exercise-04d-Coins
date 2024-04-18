@@ -4,17 +4,18 @@ Context and date
 Platform style game  3/6/2024
 
 Description
-Platformer game with different enemy types score tracker 
+The game starts where a traditional platformer would end. The game will have coins that reduce score and bosses right at the beginning rather than end. It gets easier in terms of level design (obstacles and hazards), but harder with the player getting weaker (slower, smaller jump, weaker attacks, etc. 
+Theme: Reverse
 
 ## Implementation
 Which features you included
-I included sounds on almost all things such as coins and jumping
+I included New enemies, Reverse levels, negative coins, and a boss
 
 ## References
 Nathan Mishler
 
 ## Future Development
-New levels
+New levels, New Enemies, Reverse Level Design (gets easier through level and player weakens as time progresses), Negative Coins, Boss at Beginning.
 
 ## Created by
-Tristin Howell
+Tristin Howell, Yash Patel, Nate Reininga, Amelia Goswami
